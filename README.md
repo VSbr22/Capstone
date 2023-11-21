@@ -1,4 +1,4 @@
-# Drug Classification
+# Airfare Price Prediction Analysis
 This is the final project for the University of San Diego’s ADS 599 Capstone Project course.
 
 ### Contributors
