@@ -1,5 +1,8 @@
-# Airfare Price Prediction Analysis
+# Unraveling the Dynamics of Airfare Price Predictions
 This is the final project for the University of San Diego’s ADS 599 Capstone Project course. The contributors to this project include Dennis Myasnyankin, Vannesa Salazar, and Christine Vu.
+
+## Overview
+This project addresses prevalent issues related to airfare uncertainty and the lack of detailed filtering options in flight aggregation applications. We pursue two primary objectives to enhance the travel planning experience: predicting airfare changes over time and correlating airfare prices with desired amenities. The first objective is to assist customers in predicting airfare price changes over specific timeframes. Focusing on three distinct periods — one day, one week, and one month — we aim to empower travelers with insights into potential fluctuations in ticket prices. This allows customers to make informed decisions about when to book their flights based on their preferred departure time. The second objective addresses the challenge of limited filtering options for specific features in existing flight aggregation applications. Many travelers struggle to efficiently compare the costs associated with desired amenities due to a lack of detailed information. The model used in this project seeks to bridge this gap, allowing customers to predict how airfare prices correlate with their desired amenities. By leveraging machine learning, we aim to provide users with a more comprehensive understanding of the relationship between ticket prices and specific features.
 
 ## Repository Contents
 ### [Code Library](https://github.com/VSbr22/Capstone/tree/main/code)
