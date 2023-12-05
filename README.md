@@ -9,7 +9,8 @@ This project tackles issues of airfare uncertainty and limited filtering options
 * [Data Preparation](https://github.com/VSbr22/Capstone/blob/main/code/Data%20Preparation.ipynb): Details the steps taken to acquire, prepare, and preprocess the raw data for analysis.
 * [Data Exploration](https://github.com/VSbr22/Capstone/blob/main/code/Data%20Exploration.ipynb): The exploratory data analysis (EDA) phase is documented. It includes visualizations, statistical analyses, and insights gained from exploring the dataset.
 * [Modeling](https://github.com/VSbr22/Capstone/blob/main/code/Modeling.ipynb): Application of eleven machine learning models to the preprocessed data. It covers model training, evaluation, and tuning processes. The results and performance metrics of each model are presented, providing a comprehensive overview of the modeling phase of the capstone project.
-    
+* [Notebook](https://github.com/VSbr22/Capstone/blob/main/code/Notebook.ipynb): Contains the contents from all other Notebooks.
+  
 ### [Images Library](https://github.com/VSbr22/Capstone/tree/main/images)
 * [Visualizations](https://github.com/VSbr22/Capstone/tree/main/images): Contains visualizations derived within the Notebook.
 
