@@ -9,14 +9,14 @@ Airline ticket pricing is vital to the aviation industry, affecting travelers an
 ## Project Description
 This project tackles issues of airfare uncertainty and limited filtering options in flight aggregation apps. We focus on two main objectives: predicting airfare changes over time and correlating airfare prices with desired amenities. For the first objective, we assist customers in predicting price changes within one day, one week, and one month. This empowers travelers with insights for making informed decisions on when to book flights. The second objective addresses the challenge of limited filtering options for specific features. Leveraging machine learning, our model helps users predict how airfare prices correlate with desired amenities, providing a more comprehensive understanding of the relationship between ticket prices and specific features.
 
-### Methods Used
+## Methods Used
 * Data preprocessing
 * Exploratory Data Analysis
 * Data Visualization
 * Predictive Modeling
 * Ensemble Modeling
 
-### Technologies
+## Technologies
 * Python
 * Google Colabratory
 
