@@ -17,7 +17,7 @@ This project tackles issues of airfare uncertainty and limited filtering options
 * [Visualizations](https://github.com/VSbr22/Capstone/tree/main/images): Contains visualizations derived within the Notebook.
 
 ### [Data Folder](https://github.com/VSbr22/Capstone/tree/main/data)
-* [Data](https://github.com/VSbr22/Capstone/blob/main/data/jsons.zip): Includes the original data used for this project, packaged within a ZIP folder.
+* [Data](https://github.com/VSbr22/Capstone/blob/main/data/jsons.zip): The ZIP file comprises the primary data utilized in the project, sourced from Sabre's Bargain Finder Max API.
 
 ## Technologies
 * Python
