@@ -21,7 +21,7 @@ This project tackles issues of airfare uncertainty and limited filtering options
 
 ### [Other Materials Folder](https://github.com/VSbr22/Capstone/tree/main/other)
 * [Article](https://github.com/VSbr22/Capstone/blob/main/other/Unraveling%20the%20Dynamics%20of%20Airfare%20Price%20Predictions.pdf): Article of the study.
-* [Presentation](): Presentation of the study.
+* [Presentation](https://drive.google.com/file/d/1baLSPnV6cLNGm6Xp8tO8dknHGoPFUhCb/view?usp=sharing): Presentation of the study.
 * [Python Library](https://github.com/VSbr22/Capstone/blob/main/other/Python%20Library.ipynb): List of the libraries used.
 
 ## Technologies
