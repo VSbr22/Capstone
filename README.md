@@ -1,4 +1,4 @@
-# Unraveling the Dynamics of Airfare Price Predictions
+# :airplane: Unraveling the Dynamics of Airfare Price Predictions
 This is the capstone project for the University of San Diego’s ADS 599 Capstone Project course.
 #### -- Project Status: [Completed]
 
